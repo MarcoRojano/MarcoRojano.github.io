@@ -10,7 +10,7 @@ My GitHub page is http://github.com/MarcoRojano.
 
 * Lab 3
 
-        Lab 3, part 1 was my favorite because I learned how to accurately measure the BMI of a person. I was able to practice writing functions for the first time. I also learned how to make an input and an output to collect one's weight and give an estimation of the calories burned.
+    Lab 3, part 1 was my favorite because I learned how to accurately measure the BMI of a person. I was able to practice writing functions for the first time. I also learned how to make an input and an output to collect one's weight and give an estimation of the calories burned.
 
 * Lab 5
 
